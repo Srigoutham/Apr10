@@ -11,7 +11,7 @@ public class ArraylistDemo {
 		cities.add("New Delhi");
 		cities.add("London");
 		cities.add("Tokyo");
-
+// Adding a comment  at line 14
 		for (String t : cities) {
 			System.out.println(t);
 		}
